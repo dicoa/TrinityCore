@@ -21,7 +21,6 @@
 #include "ScriptMgr.h"
 #include "WorldSocket.h"
 #include "WorldSocketMgr.h"
-
 #include <boost/system/error_code.hpp>
 
 static void OnSocketAccept(tcp::socket&& sock)

@@ -19,6 +19,8 @@
 #include "QuestDef.h"
 #include "GossipDef.h"
 #include "ObjectMgr.h"
+#include "Opcodes.h"
+#include "WorldPacket.h"
 #include "WorldSession.h"
 #include "Formulas.h"
 

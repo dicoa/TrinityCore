@@ -19,6 +19,7 @@
 #include "Common.h"
 #include "Log.h"
 #include "ObjectAccessor.h"
+#include "Opcodes.h"
 #include "Player.h"
 #include "Pet.h"
 #include "WorldPacket.h"

@@ -17,6 +17,7 @@
 
 #include "WorldPacket.h"
 #include "WorldSession.h"
+#include "Opcodes.h"
 #include "Vehicle.h"
 #include "Player.h"
 #include "Log.h"

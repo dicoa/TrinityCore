@@ -21,6 +21,7 @@
 #include "ObjectMgr.h"
 #include "WorldPacket.h"
 
+#include "Formulas.h"
 #include "GameObject.h"
 #include "Language.h"
 #include "Player.h"

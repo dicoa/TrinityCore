@@ -25,6 +25,7 @@
 #include "Log.h"
 #include "ObjectMgr.h"
 #include "Player.h"
+#include "WorldPacket.h"
 #include "WorldSession.h"
 
 namespace WeatherMgr

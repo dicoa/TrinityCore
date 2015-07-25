@@ -18,6 +18,7 @@
 #include "WorldSession.h"
 #include "Player.h"
 #include "ObjectMgr.h"
+#include "Opcodes.h"
 #include "Log.h"
 
 void WorldSession::HandleGrantLevel(WorldPacket& recvData)

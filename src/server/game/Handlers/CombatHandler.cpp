@@ -24,6 +24,7 @@
 #include "CreatureAI.h"
 #include "Vehicle.h"
 #include "Player.h"
+#include "Opcodes.h"
 
 void WorldSession::HandleAttackSwingOpcode(WorldPacket& recvData)
 {
